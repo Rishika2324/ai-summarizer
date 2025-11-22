@@ -52,12 +52,7 @@ Set Up Environment Variables
 Create a new file named .env in the root of your project and add the following content:
 
 VITE_RAPID_API_ARTICLE_KEY=
-Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the Rapid API website.
-
-Running the Project
-
-npm run dev
-Open http://localhost:5173 in your browser to view the project.
+Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the Rapid API website
 
 🕸️ Snippets
 App.css
